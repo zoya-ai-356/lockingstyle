@@ -1,0 +1,23 @@
+{
+  "name": "LOCKINGSTYLE Official",
+  "short_name": "LOCKINGSTYLE",
+  "description": "Premium Streetwear & Urban Tech Store",
+  "start_url": "/index.php",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#00df81",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3081/3081986.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3081/3081986.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
