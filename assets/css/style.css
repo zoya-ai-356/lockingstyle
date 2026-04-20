@@ -1,0 +1,15 @@
+/* Power Guard Overrides */
+.low-power-mode * {
+    animation: none !important;
+    transition: none !important;
+    text-shadow: none !important;
+    box-shadow: none !important;
+}
+
+.low-power-mode .neon-text {
+    color: #ffffff;
+}
+
+.low-power-mode .neon-card {
+    border-color: #333;
+}
